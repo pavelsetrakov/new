@@ -87,6 +87,7 @@ namespace WindowsFormsApplication1
             {
                 textBox1.Text = textBox1.Text.Replace("-", "");
                 znak = true;
+                //Указать автора
             }
         }
 
